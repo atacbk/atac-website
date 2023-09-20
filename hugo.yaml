@@ -1,0 +1,30 @@
+baseURL: ""
+languageCode: en-us
+title: Atlantic Towers
+theme: PaperMod
+
+params:
+  images: ["city.jpg"]
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+
+
+menu:
+  main:
+  - identifier: news
+    name: News
+    url: /news/
+    weight: 1
+  - identifier: parkinglist
+    name: Parking-List
+    url: /parkinglist/
+    weight: 2
+  - identifier: contacts
+    name: Contacts
+    url: /contacts/
+    weight: 3
+  - identifier: about
+    name: About
+    url: /about/
+    weight: 4
