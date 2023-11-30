@@ -1,5 +1,5 @@
 ---
-title: 'Parking-List'
+title: 'Parking List'
 date: 2023-09-13T11:31:37-04:00
 draft: false
 ---
